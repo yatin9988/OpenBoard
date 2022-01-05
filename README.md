@@ -34,8 +34,6 @@ This real-time whiteboard provides the user with following features:
 - Real-time virtual environment for drawing and erasing.
 
 ### Run on your local machine:
-Replace `openboard-paridhi.herokuapp.com/` with `http://localhost:3000/` in `index.html`file. <br>
-Open the folder in VS code. Open terminal and write these commands: <br>
 ```
 npm init
 ```
